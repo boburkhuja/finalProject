@@ -1,0 +1,43 @@
+* {
+	font-family: 'Roboto', sans-serif;
+}
+
+.navbar {
+	background-color: #aaa;
+	height: 100%;
+	font-size: 15px;
+
+}
+
+.sidebar {
+	background-color: #bbb;
+	height: 100%;
+
+}
+
+.content {
+	background-color: #ccc;
+	height: 100%;
+
+}
+ul.nav {
+	list-style-type: none;
+	display: block;
+}
+
+ul.nav a {
+	color: grey;
+}
+
+li.nav {
+	margin-bottom: 9px;
+	margin-left: 45px;
+}
+
+input {
+	border-radius: 6px;
+}
+
+div.content {
+	padding-top: 30px
+}
